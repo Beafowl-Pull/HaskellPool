@@ -1,2 +1,2 @@
 # HaskellPool
-All files of the HAskell pool of epitech
+All files of the Haskell pool of epitech
